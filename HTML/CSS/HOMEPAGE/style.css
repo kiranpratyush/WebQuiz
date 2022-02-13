@@ -1,0 +1,32 @@
+body {
+  background: var(--color-background);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+main {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  transform: translatey(-20%);
+}
+
+.categories {
+  display: flex;
+  gap: 30px;
+}
+.category {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  min-width: 220px;
+  min-height: 220px;
+  background: var(--color-card);
+  margin: 12px;
+  padding: 24px 32px;
+}
+
