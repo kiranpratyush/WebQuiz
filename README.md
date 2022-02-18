@@ -12,3 +12,14 @@ the  rule able to take Quiz of the respective categories
 Below are some of the screenshots of the screen . You can visit the live Link for visiting the site
 
 - screenshot1
+ 
+![Image1](./Images/img1.png)
+
+- screenshot2
+
+![Image2](./Images/img2.png)
+
+
+- screenshot3
+
+![Image3](./Images/img3.png)
