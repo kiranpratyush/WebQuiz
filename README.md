@@ -24,3 +24,6 @@ Below are some of the screenshots of the screen . You can visit the live Link fo
 - screenshot3
 
 ![Image3](./Images/img3.png)
+
+Here is the result page for the Quiz App
+[Result Page](https://testing2364.netlify.app/html/resultpage/)
