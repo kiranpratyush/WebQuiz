@@ -1,6 +1,6 @@
 # WebQuiz
 screens for the Web Quiz web app (will be integrated with React later )
-[Web Quiz](https://testing2364.netlify.app/)
+[Web Quiz](https://cssjsquiz.netlify.app/)
 
 Here are some features of the Quiz app
 - It has two categories
@@ -24,3 +24,6 @@ Below are some of the screenshots of the screen . You can visit the live Link fo
 - screenshot3
 
 ![Image3](./Images/img3.png)
+
+Here is the result page for the Quiz App
+[Result Page](https://testing2364.netlify.app/html/resultpage/)
