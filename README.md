@@ -12,18 +12,15 @@ the  rule able to take Quiz of the respective categories
 
 Below are some of the screenshots of the screen . You can visit the live Link for visiting the site
 
-- screenshot1
- 
-![Image1](./Images/img1.png)
-
-- screenshot2
-
-![Image2](./Images/img2.png)
 
 
-- screenshot3
+![screenshot1](https://user-images.githubusercontent.com/77445957/162596639-f306565a-3df7-4ab1-88e4-e3df24ff6d9b.png)
 
-![Image3](./Images/img3.png)
+![screenshot2](https://user-images.githubusercontent.com/77445957/162596641-0c35f0e8-455b-4c25-af06-b85decc3f94b.png)
+![screenshot3](https://user-images.githubusercontent.com/77445957/162596652-1649f1df-5295-4489-93fb-ea030279e3fb.png)
+
+![screenshot4](https://user-images.githubusercontent.com/77445957/162596653-bd13da94-e4e6-4257-af38-efc888da236d.png)
+
 
 Here is the result page for the Quiz App
-[Result Page](https://testing2364.netlify.app/html/resultpage/)
+[Result Page](https://cssjsquiz.netlify.app/html/resultpage/)
